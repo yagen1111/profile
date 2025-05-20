@@ -91,7 +91,8 @@ body {
   .profile-pic {
     border: 5px solid #ff4dd2;
     border-radius: 50%;
-    width: 160px;
+    width: 230px;
+    height: 300px;
   }
   .section-title {
     color: #ff4dd2;

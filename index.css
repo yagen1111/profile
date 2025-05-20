@@ -51,7 +51,11 @@ body {
             transform: translateY(-2px);
             box-shadow: 0 4px 8px rgba(155, 89, 182, 0.3);
         }
+<<<<<<< HEAD
   .p-3{
+=======
+.card p-3 {
+>>>>>>> 9e0820ad66f88a5a8faa7832f960f0d3f99a7d1e
     background-color: #1e1e1e;
     border: none;
     border-radius: 1rem;
